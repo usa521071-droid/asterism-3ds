@@ -1,0 +1,4 @@
+version=0.4.0
+size=1049292
+sha256=ad2fe5359ad3f43371548197162198939151c5207d3e62e0fe5748b90184708e
+url=https://raw.githubusercontent.com/usa521071-droid/asterism-3ds/v0.4.0/downloads/v0.4.0/asterism.3dsx

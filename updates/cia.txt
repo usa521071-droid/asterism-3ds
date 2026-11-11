@@ -1,0 +1,4 @@
+version=0.4.0
+size=713152
+sha256=d3276fea189ece5d8425e9381d2e21053de162d997c9653deb2be7253e0295da
+url=https://raw.githubusercontent.com/usa521071-droid/asterism-3ds/v0.4.0/downloads/v0.4.0/asterism.cia
